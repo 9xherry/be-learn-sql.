@@ -11,28 +11,28 @@ public class part3 {
       TODO: Q 3-1-1. category 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 category 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART3_1_1 = "FILL IN THIS";
+  public static final String PART3_1_1 = "DESC category";
 
   /*
   ----------------------------------------------------------------------------------------------
       TODO: Q 3-1-2. content_category 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 content_category 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART3_1_2 = "FILL IN THIS";
+  public static final String PART3_1_2 = "DESC content_category";
 
   /*
   ----------------------------------------------------------------------------------------------
       TODO: Q 3-1-3. role 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 role 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART3_1_3 = "FILL IN THIS";
+  public static final String PART3_1_3 = "DESC role";
 
   /*
   ----------------------------------------------------------------------------------------------
       TODO: Q 3-1-4. user 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 user 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART3_1_4 = "FILL IN THIS";
+  public static final String PART3_1_4 = "DESC user";
 
   /*
   ----------------------------------------------------------------------------------------------
